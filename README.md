@@ -21,6 +21,10 @@
   <img height="100%" width="50%" src="https://github-readme-stats.vercel.app/api?username=Infinity-gka&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)" />
   <img height="100%" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinity-gka&layout=compact&langs_count=10&theme=dark" />
 </div>
+
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
  
 ##
 
