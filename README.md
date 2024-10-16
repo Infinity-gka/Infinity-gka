@@ -24,7 +24,7 @@
     
 <div>
 
-  ![snake animation](https://github.com/<Infinity-gka>/<Infinity-gka>/blob/output/github-contribution-grid-snake2.svg)
+  ![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
