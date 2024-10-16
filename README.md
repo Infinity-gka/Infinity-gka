@@ -13,7 +13,6 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=100&size=12&duration=1000&pause=100&color=F7F7F7&center=falso&vCenter=falso&multiline=true&repeat=verdadeiro&random=falso&width=800&height=100&lines=Cientista+Formado+em+F%C3%ADsica.+Atualmente+Estudante+de+Rela%C3%A7%C3%B5es+Internacionais+e+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.+;Interessado+em+aprender+sobre+tudo+e+mais+um+pouco%2C+desenvolver+minhas+Habilidades+e+Conhecimentos+em+todas+as+%C3%A1reas.)](https://git.io/typing-svg)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=100&size=12&duration=100&pause=100&color=F7F7F7&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=falso&random=falso&width=325&height=80&lines=+%7C________Teu+Universo+ser%C3%A1s+t%C3%A3o+Infinito_______+%7C;+%7C__Quanto+maiores+forem+os+teus+Conhecimentos__+%7C;+%7C_________E+seu+Amor+ser%C3%A1+t%C3%A3o+profundo__________%7C;+%7C________Quanto+mais+S%C3%A1bios+eles+forem.________+%7C)](https://git.io/typing-svg)
 
 
 ##
