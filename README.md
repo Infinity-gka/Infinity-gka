@@ -5,7 +5,7 @@
 
 <div align="center"><br>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=400&pause=1000&color=F7F7F7&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=320&lines=Gabriel+Kozlowski+Andreola)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&pause=1000&color=F7F7F7&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=320&lines=Gabriel+Kozlowski+Andreola)](https://git.io/typing-svg)
   
 </div>
 
