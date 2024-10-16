@@ -1,15 +1,23 @@
 <div align="center">
 <img src = "Infinity Logotipo.png" width = "200px">
 
-##
+
+
+## 
+<!--------------------------------------------------Título e Descrição-------------------------------------------------->
 
 <div align="center"><br>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&pause=1000&color=F7F7F7&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=320&lines=Gabriel+Kozlowski+Andreola)](https://git.io/typing-svg)
-  
 </div>
 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=100&size=12&duration=1000&pause=100&color=F7F7F7&center=falso&vCenter=falso&multiline=true&repeat=verdadeiro&random=falso&width=800&height=100&lines=Cientista+Formado+em+F%C3%ADsica.+Atualmente+Estudante+de+Rela%C3%A7%C3%B5es+Internacionais+e+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.+;Interessado+em+aprender+sobre+tudo+e+mais+um+pouco%2C+desenvolver+minhas+Habilidades+e+Conhecimentos+em+todas+as+%C3%A1reas.)](https://git.io/typing-svg)
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=100&size=12&duration=100&pause=100&color=F7F7F7&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=falso&random=falso&width=325&height=80&lines=+%7C________Teu+Universo+ser%C3%A1s+t%C3%A3o+Infinito_______+%7C;+%7C__Quanto+maiores+forem+os+teus+Conhecimentos__+%7C;+%7C_________E+seu+Amor+ser%C3%A1+t%C3%A3o+profundo__________%7C;+%7C________Quanto+mais+S%C3%A1bios+eles+forem.________+%7C)](https://git.io/typing-svg)
+
+
 ##
+<!--------------------------------------------------Status-------------------------------------------------->
 
 <div>
 <div align="center"><br>
@@ -21,9 +29,7 @@
   <img height="100%" width="50%" src="https://github-readme-stats.vercel.app/api?username=Infinity-gka&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)" />
   <img height="100%" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinity-gka&layout=compact&langs_count=10&theme=dark" />
 </div>
-    
 <div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Infinity-gka/Infinity-gka/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Infinity-gka/Infinity-gka/output/github-contribution-grid-snake.svg">
@@ -32,9 +38,34 @@
 
 </div>
 
+
  
 ##
+<!--------------------------------------------------Proficiências-------------------------------------------------->
 
+<details open><summary><h2>Languages:</h2></summary>
+  <img align="center" alt="python" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="c" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="cplusplus" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="csharp" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+</div>
+
+<details open><summary><h2>Tools:</h2></summary>
+  <img align="center" alt="vscode" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="trello" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+  <img align="center" alt="anaconda" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+  <img align="center" alt="jupyter" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" alt="arduino" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+</div>
+
+<details open><summary><h2>Operational Systems:</h2></summary>
+  <img align="center" alt="windows" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+</div>
+
+
+
+##
+<!--------------------------------------------------Networks-------------------------------------------------->
 
 <div align="center"><br>
     
