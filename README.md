@@ -13,7 +13,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=100&size=12&duration=1000&pause=100&color=F7F7F7&center=falso&vCenter=falso&multiline=true&repeat=verdadeiro&random=falso&width=800&height=100&lines=Cientista+formado+em+F%C3%ADsica.+Atualmente+Estudante+de+Rela%C3%A7%C3%B5es+Internacionais+e+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.+;Interessado+em+aprender+sobre+tudo+e+mais+um+pouco%2C+desenvolver+minhas+Habilidades+e+Conhecimentos+em+todas+as+%C3%A1reas.)](https://git.io/typing-svg)
 
-2025/03/16
+2025/03/17
 
 
 
