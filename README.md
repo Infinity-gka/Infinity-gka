@@ -11,9 +11,8 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&pause=2000&color=F7F7F7&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=320&lines=Gabriel+Kozlowski+Andreola)](https://git.io/typing-svg)
 </div>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=100&size=12&duration=1000&pause=100&color=F7F7F7&center=falso&vCenter=falso&multiline=true&repeat=verdadeiro&random=falso&width=800&height=100&lines=Cientista+formado+em+F%C3%ADsica.+Atualmente+Estudante+de+Rela%C3%A7%C3%B5es+Internacionais+e+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.+;Interessado+em+aprender+sobre+tudo+e+mais+um+pouco%2C+desenvolver+minhas+Habilidades+e+Conhecimentos+em+todas+as+%C3%A1reas.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=100&size=12&duration=500&pause=100&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=150&lines=Estudante+de+Mestrado+em+F%C3%ADsica+e+Astronomia+pela+Universidade+Tecnol%C3%B3gica+Federal+do+Paran%C3%A1%2C+com;foco+em+F%C3%ADsica+de+Part%C3%ADculas%2C+F%C3%ADsica+Qu%C3%A2ntica%2C+Relatividade+e+Campos.+Possui+forma%C3%A7%C3%A3o+em+Bacharelado;em+F%C3%ADsica+e+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+pela+Universidade+Positivo%2C+e+cursando+Rela%C3%A7%C3%B5es;Internacionais+pela+mesma+institui%C3%A7%C3%A3o.+Formado+em+T%C3%A9cnico+em+Edifica%C3%A7%C3%B5es+pelo+Col%C3%A9gio+Estadual+do;Paran%C3%A1.+Cientista+e+Pesquisador%2C+possui+interesse+pelos+mais+diversos+campos+do+conhecimento.+Entusiasta;pelo+aprendizado+e+oportunidades%2C+det%C3%A9m+um+curr%C3%ADculo+extenso+em+diversas+%C3%A1reas.)](https://git.io/typing-svg)
 
-2025/07/26
 
 
 
@@ -28,9 +27,7 @@
   
 <div align="center"><br>
   <a href="https://github.com/Infinity-gka">
-  <img height="100%" width="50%" src="https://github-readme-stats.vercel.app/api?username=Infinity-gka&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)" />
-  <img height="100%" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinity-gka&layout=compact&langs_count=10&theme=dark" />
-</div>
+ 
     
   ![](./profile-3d-contrib/profile-night-rainbow.svg)
     
